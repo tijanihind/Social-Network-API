@@ -18,12 +18,12 @@ The Social Network API is a back-end application that provides the capability to
 
 1. **Clone the repository**:
     ```bash
-    git clone <repository-url>
+    git clone git@github.com:tijanihind/Social-Network-API.git
     ```
 
 2. **Navigate to the project directory**:
     ```bash
-    cd <project-folder-name>
+    cd Social-Network-AP
     ```
 
 3. **Install dependencies**:
